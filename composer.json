@@ -1,0 +1,12 @@
+{
+    "name": "hexlet/code",
+    "description": "Exapmle brain games",
+    "authors": [
+        {
+            "name": "Ayaal Potapov",
+            "email": "ayaal.potapov@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
